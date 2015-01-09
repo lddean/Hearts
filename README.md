@@ -1,3 +1,0 @@
-Hearts is an "evasion-type" trick-taking playing card game for four players, although variations can accommodate 3–6 players. The game is also known as Black Lady,[1] The Dirty, Dark Lady, Slippery Anne, Chase the Lady, Crubs, Black Queen and Black Maria,[2] though any of these may refer to the similar but differently-scored game Black Lady. The game is a member of the Whist family of trick-taking games (which also includes Bridge and Spades), but the game is unique among Whist variants in that it is an evasion-type game; players avoid winning certain penalty cards in tricks, usually by avoiding winning tricks altogether.
-
-You can use makefile to run
